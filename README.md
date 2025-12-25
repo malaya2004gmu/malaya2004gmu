@@ -1,9 +1,11 @@
 ## Hi, I'm Malaya Sahu 👋  
-### 🚀 Full Stack Developer | MERN Enthusiast | MCA Student 🇮🇳
+### 🚀 Full Stack Developer | MERN Enthusiast | MCA Student
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malaya2004gmu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=malaya2004gmu" alt="profile views"/>
 </p>
+
 
 ---
 
@@ -76,12 +78,22 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=malayasahu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=malayasahu&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malayasahu&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
 
 ---
 
