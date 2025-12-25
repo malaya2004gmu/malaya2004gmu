@@ -131,16 +131,17 @@
 
 <p align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=malaya2004gmu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malaya2004gmu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
 
-  <!-- Streak Stats (alternate host if demolab is down) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=malaya2004gmu&theme=tokyonight&hide_border=true" alt="Streak stats" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=malaya2004gmu&theme=tokyonight&hide_border=true" alt="Streak stats" width="48%" />
 </p>
 
 <p align="center">
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaya2004gmu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
+
 
 
 
