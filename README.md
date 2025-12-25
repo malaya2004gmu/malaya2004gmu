@@ -1,10 +1,12 @@
 ## Hi, I'm Malaya Sahu 👋  
 ### 🚀 Full Stack Developer | MERN Enthusiast | MCA Student
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malaya2004gmu" alt="profile views"/>
+  <a href="https://malayasahu.netlify.app" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=malaya2004gmu" alt="profile views"/>
+  </a>
 </p>
+
 
 
 ---
@@ -26,10 +28,12 @@
   <a href="https://linkedin.com/in/malaya-sahu-49250b221/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:malaya75902@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
 
 
 
@@ -65,7 +69,12 @@
 ### 🗄 Database
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
 </p>
+
 
 
 ### 🧰 Tools & Others
