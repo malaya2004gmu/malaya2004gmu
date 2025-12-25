@@ -8,12 +8,16 @@
 ---
 
 ## 👩‍💻 About Me
-
-- 🎓 **MCA Student**
-- 🌱 Currently learning **React & Next.js**
-- 🔭 Working on **MERN Stack Projects**
-- 💬 Ask me about **Web Development, JavaScript & DSA**
-- 📫 Reach me at **malaya75902@gmail.com**
+- 🎓 MCA student & aspiring Full Stack Developer  
+- 🌱 Learning React, Next.js & modern web technologies  
+- 🔭 Building scalable MERN stack applications  
+- 💬 Ask me about Web Dev, JavaScript & DSA  
+- 📫 malaya75902@gmail.com
+- 🎓 MCA student & aspiring Full Stack Developer  
+- 🌱 Learning React, Next.js & modern web technologies  
+- 🔭 Building scalable MERN stack applications  
+- 💬 Ask me about Web Dev, JavaScript & DSA  
+- 📫 malaya75902@gmail.com
 
 ---
 
