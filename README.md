@@ -12,10 +12,14 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 MCA student & aspiring Full Stack Developer  
-- 🌱 Learning React, Next.js & modern web technologies  
-- 🔭 Building scalable MERN stack applications  
-- 💬 Ask me about Web Dev, JavaScript & DSA  
+- 🎓 MCA student & aspiring Full Stack Developer
+- 
+- 🌱 Learning React, Next.js & modern web technologies
+-  
+- 🔭 Building scalable MERN stack applications
+- 
+- 💬 Ask me about Web Dev, JavaScript & DSA
+- 
 - 📫 malaya75902@gmail.com
 
 ---
@@ -136,9 +140,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=malaya2004gmu&theme=tokyonight&hide_border=true" alt="Streak stats" />
 </p>
-
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malaya2004gmu&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
